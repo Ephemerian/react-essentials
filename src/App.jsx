@@ -10,7 +10,6 @@ function Header() {
     </header>
   );
 }
-
 function App() {
   return (
     <div>
@@ -21,5 +20,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
